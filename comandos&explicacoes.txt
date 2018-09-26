@@ -1,0 +1,22 @@
+
+
+$ npm install nodemon -g : Intalar o nodemon para restartar o servidor a cada modificacao feita
+
+$ npm init : Criar meu arquivo e suas dependencias;
+$ npm install express --save : Instala o express e salva express como dependencia;
+
+
+nodemon nomedoarquivo : Para rodar o arquivo;
+
+$ npm install consign --save
+$ npm install body-parser --save
+
+$ npm install nedb --save - banco de dados
+
+
+
+POSTMAN
+
+
+
+instalar tambem o panda, material icon
