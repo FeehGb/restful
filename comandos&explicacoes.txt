@@ -1,4 +1,4 @@
-
+MODULOS
 
 $ npm install nodemon -g : Intalar o nodemon para restartar o servidor a cada modificacao feita
 
@@ -13,10 +13,21 @@ $ npm install body-parser --save
 
 $ npm install nedb --save - banco de dados
 
-
-
 POSTMAN
 
+instalar tambem o Base2tone, material icon
 
 
-instalar tambem o panda, material icon
+METODOS
+
+CADASTRAR   - POST
+ALTERAR     - PUT
+CONSULTAR   - GET
+EXCLUIR     - DELETE
+
+NeDB
+CONSULTAR   - findOne para um so;
+CONSULTAR   - find para todos;
+ALTERAR     - update;
+CADASTRAR   - isert
+REMOVER     -  remove;
